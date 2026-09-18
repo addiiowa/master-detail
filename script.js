@@ -1,4 +1,4 @@
-const CSV_PATH = "ihttps://addiiowa.github.io/master-detail/data/iowa-warblers.csv";
+const CSV_PATH = "https://addiiowa.github.io/master-detail/data/iowa-warblers.csv";
 const BIRD_THUMBNAIL_EXTENSION = ".jpg";
 const FOOD_IMAGE_EXTENSION = ".jpg";
 
